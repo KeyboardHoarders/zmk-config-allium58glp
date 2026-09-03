@@ -1,10 +1,12 @@
 ## My shop keyboard-hoarders.com and keyboardhoarders.etsy.com
-![main](https://github.com/user-attachments/assets/27092a5b-7a79-4b93-8dbd-51b5fb032c02)
+<img width="5328" height="4000" alt="402270884-27092a5b-7a79-4b93-8dbd-51b5fb032c02" src="https://github.com/user-attachments/assets/b1f7157e-c2ac-4501-8208-147835bfd03d" />
+
 
 # Now offering wired version running Vial-QMK.  Check my shop for listings with that variant.
 
 # keymap
-![allium58](https://github.com/user-attachments/assets/43d4eedf-1694-4e77-b864-f2ef3c20e46b)
+<img width="984" height="1173" alt="421307589-43d4eedf-1694-4e77-b864-f2ef3c20e46b" src="https://github.com/user-attachments/assets/2053055d-8f8a-4df5-a4cd-548e88ac0575" />
+
 
 # Flashing instructions.
 Flash firmware:
