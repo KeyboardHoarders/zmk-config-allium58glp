@@ -5,7 +5,8 @@
 # Now offering wired version running Vial-QMK.  Check my shop for listings with that variant.
 
 # keymap
-<img width="984" height="1173" alt="421307589-43d4eedf-1694-4e77-b864-f2ef3c20e46b" src="https://github.com/user-attachments/assets/2053055d-8f8a-4df5-a4cd-548e88ac0575" />
+<img width="984" height="1918" alt="my_keymap-15" src="https://github.com/user-attachments/assets/2a4c76b5-a5a9-48dd-9305-00793761d013" />
+
 
 
 # Flashing instructions.
